@@ -1,0 +1,46 @@
+/* * {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+ */
+div.container{
+    width: 100%;
+    text-align: center;
+}
+
+div.header {
+    background-color: lightcoral;
+    width: 100%;
+    height: 100px;
+}
+
+div.nav {
+    background-color: lightseagreen;
+    width: 100%;
+    height: 100px;
+}
+
+div.section {
+    width: 60%;
+    background-color: lightgreen;
+    min-height: 400px;
+    float: left;
+}
+
+div.aside {
+    width: 40%;
+    background-color: blue;
+    min-height: 400px;
+    float: left;
+}
+
+div.footer {
+    background-color: orange;
+    min-height: 100px;
+    width: 100%;
+    float: left;
+}
+
+video {
+    width: 100%;
+}
