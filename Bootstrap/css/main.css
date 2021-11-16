@@ -5,3 +5,19 @@
 #main-menu{
     background-color: #47ac1e;
 }
+
+h2{
+    color: rgb(253, 53, 53);
+}
+
+@media (min-width: 576px) { 
+    h2{
+        color: aquamarine;
+    }
+}
+
+@media (min-width: 800px) { 
+    h2{
+        color: green;
+    }
+}
